@@ -6,8 +6,9 @@
 @version      1
 @license      MIT
 ==/UserStyle== */
+
 @-moz-document domain("lyntr.jnnj.xyz") {
-    * {
+* {
         color: #ffffff;
     }
     body {
@@ -62,4 +63,7 @@
     .bg-lynt-foreground:hover > button .active span {
         stroke: #250025;
     }
-    }
+img[alt="Logo"] {
+    content: url("https://raw.githubusercontent.com/protonage/purpleeeee-eeee-lyntr-/main/logo.svg");
+}
+}
