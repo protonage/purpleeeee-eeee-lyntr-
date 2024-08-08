@@ -1,0 +1,57 @@
+@-moz-document domain("lyntr.com") {
+* {
+    color: #ffffff;
+}
+body {
+    background-color: #000000;
+}
+.bg-lynt-foreground {
+      background-color: #5A005C44;
+}
+.bg-lynt-foreground:hover {
+      background-color: #8C008E44;
+}
+.bg-primary{
+    background-color: #FEA8FF;
+    color: #000000 !important;
+}
+.bg-border {
+    background-color: #5A005C44;
+}
+.border {
+    border-width: 0px;
+}
+.border-primary {
+    border-color: #ffffff !important;
+}
+.bg-primary\/50 {
+    background-color: #ffffff55;
+}
+.bg-popover {
+    background-color: #050305;
+}
+.bg-background {
+    background-color: #050305;
+} 
+.border-input {
+    border-color: #ffffff;
+}
+div[data-melt-separator=""] {
+    opacity: 0%;
+}
+div[role="dialog"] {
+    background-color: #000000;
+}
+button .active svg {
+    stroke: #170018;
+}
+button .active span {
+    color: #170018 !important;
+}
+.bg-lynt-foreground:hover > button .active svg {
+    stroke: #250025;
+}
+.bg-lynt-foreground:hover > button .active span {
+    stroke: #250025;
+}
+}
