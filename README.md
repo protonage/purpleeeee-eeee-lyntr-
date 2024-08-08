@@ -1,3 +1,5 @@
+WARNING: this style will be developed more for https://lyntr.jnnj.xyz instead of lyntr.com, as i have been banned on there until further notice. I hope yall understand, and enjoy my theme! :3
+
 # how tf do i install this?
 - install the stylus extension (availible for both chrome and firefox)
 - copy the contents of style.css
