@@ -5,5 +5,5 @@
 - click on the stylus extension
 - click the "write style for" button
 - paste the contents of style.css
-- click save
+- click save \n
 (sorry for having it be so complicated the stylus extension hasnt picked up my userstyle yet ;-;)
