@@ -69,6 +69,12 @@
     button .active svg {
         stroke: #170018;
     }
+.shit.active.svelte-1phtyrl.svelte-1phtyrl svg {
+        stroke: #170018 !important;
+    }
+.shit.active.svelte-1phtyrl.svelte-1phtyrl span {
+    color: #170018;
+}
     button .active span {
         color: #170018 !important;
     }
