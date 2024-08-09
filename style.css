@@ -51,6 +51,9 @@
 .bg-secondary\/50 {
     background-color: #050305;
 }
+.bg-primary\/80 {
+    background-color: #8C008E44;
+}
 .bg-input\/70 {
     background-color: #5A005C44;
 }
@@ -92,5 +95,8 @@ img[alt="Logo"] {
 }
 .hover\:text-accent-foreground:hover svg {
     stroke: #170018;
+}
+.text-primary-foreground {
+    color: #ffffff;
 }
 }
